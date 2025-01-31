@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "AFKBotYO", 
+    "username": "antistopbot", 
     "password": "",
     "type": "mojang"
   },
@@ -35,8 +35,8 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a bot player",
-        "test",
+        "I am a real minecraft player!",
+        "I will never quit this server",
         "I Like to Play Minecraft!"
       ]
     },
